@@ -1,0 +1,10 @@
+{
+    "mysql_conn": {
+        "host": "hostname",
+        "user": "useranme",
+        "password": "password",
+        "port": "port",
+	    "database":"database_name"
+    },
+    "oracle_conn": {}
+}
